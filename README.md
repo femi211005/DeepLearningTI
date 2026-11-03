@@ -35,5 +35,4 @@ Berdasarkan implementasi, pelatihan, dan pengujian yang telah dilakukan, berikut
 **Kesimpulan Akhir:**
 Kedua arsitektur berhasil diterapkan dengan sangat baik pada dataset teks *IMDb Reviews*. **RNN (LSTM)** unggul dalam hal pemahaman konteks urutan teks secara utuh, sementara **1D CNN** menawarkan keunggulan pada efisiensi kecepatan komputasi dan penangkapan pola lokal. Pemilihan arsitektur dapat disesuaikan berdasarkan skala prioritas antara kecepatan pelatihan atau ketepatan pemahaman sekuensial.
 
----
-*Dibuat untuk memenuhi Tugas Individu Deep Learning 2026.*
+
