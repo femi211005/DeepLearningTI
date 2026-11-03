@@ -5,7 +5,7 @@ Repositori ini berisi tugas individu mata kuliah **Deep Learning** yang mengimpl
 ## 👤 Informasi Mahasiswa
 * **Nama:** Femilia Padaunan
 * **NIM:** H071241012
-* **Kelas:** Deep Learning
+* **Kelas:** Deep Learning 
 
 ---
 
